@@ -1,2 +1,2 @@
 # Licenta
-Machine Learning app (predictions)
+Machine Learning app (predictions) using JAVA, APACHE TOMCAT, WEKA
